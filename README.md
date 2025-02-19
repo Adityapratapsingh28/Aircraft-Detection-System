@@ -14,3 +14,4 @@ With cutting-edge AI technology, this project contributes to strengthening natio
 - Dataset from Robolfow & Goverement military website
 
 ## Results
+![val_batch1_pred](https://github.com/user-attachments/assets/d4271fe3-3bd1-4ea3-b7da-6f70754cd3e9)

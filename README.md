@@ -13,14 +13,17 @@ With cutting-edge AI technology, this project contributes to strengthening natio
 - Yolov11 for object detection
 - Dataset from Robolfow & Goverement military website
 
+## Labels
 
-### Prediction 
+![labels](https://github.com/user-attachments/assets/1040f412-1e55-46a0-b683-5c6297665e17)
+
+## Prediction 
 ![val_batch1_pred](https://github.com/user-attachments/assets/d4271fe3-3bd1-4ea3-b7da-6f70754cd3e9)
 
-### F1_Curve
+## F1_Curve
 ![F1_curve](https://github.com/user-attachments/assets/418f1837-5e36-4f81-9aba-fd0346fdf746)
 
-### P_Curve
+## P_Curve
 
 
 ![P_curve](https://github.com/user-attachments/assets/1ef9870b-f333-420b-a5c2-7e53dc5620a8)

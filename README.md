@@ -32,3 +32,16 @@ With cutting-edge AI technology, this project contributes to strengthening natio
 
 
 ![results](https://github.com/user-attachments/assets/bed9d1bd-0e96-4a58-86da-ea0ad05878f4)
+
+
+## 🔮 Future Scope of Aircraft Detection System
+
+- Radar & Sensor Integration – Combine AI detection with radar, infrared, and satellite data for enhanced accuracy.
+- Edge AI Deployment – Implement real-time processing on drones and surveillance devices.
+- Advanced Classification – Identify aircraft types (civilian, military, UAVs) with high precision.
+- Threat Assessment – AI-based risk evaluation and automated defense alerts.
+- Global Aircraft Recognition – Detect aircraft origins using unique features like insignia and tail numbers.
+- Predictive Analysis – Forecast unauthorized incursions using AI-driven flight pattern analysis.
+- UAV Integration – Deploy AI-powered drones for autonomous aerial surveillance.
+- Cybersecurity Measures – Secure detection logs with encryption and blockchain technology.
+- Maritime & Ground Expansion – Extend detection to naval and land-based military threats.

@@ -15,7 +15,7 @@ With cutting-edge AI technology, this project contributes to strengthening natio
 
 ## Labels
 
-![labels](https://github.com/user-attachments/assets/1040f412-1e55-46a0-b683-5c6297665e17)
+[![labels](https://github.com/user-attachments/assets/1040f412-1e55-46a0-b683-5c6297665e17)](https://private-user-images.githubusercontent.com/143888880/415036546-1040f412-1e55-46a0-b683-5c6297665e17.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM2MzA2MjksIm5iZiI6MTc1MzYzMDMyOSwicGF0aCI6Ii8xNDM4ODg4ODAvNDE1MDM2NTQ2LTEwNDBmNDEyLTFlNTUtNDZhMC1iNjgzLTVjNjI5NzY2NWUxNy5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyN1QxNTMyMDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mM2M5ZmM0Y2VhODJkMDUxZTVlN2NiY2M5YTFmOTI1OGFlNzY1ZDg5MGQyNGQ5YThjN2M1MjgxZTE2NmRjMmRhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.9zkaRLviyTXeHypVumVzwhMLporIZzQtYNuHSSLaUV4)
 
 ## Prediction 
 ![val_batch1_pred](https://github.com/user-attachments/assets/d4271fe3-3bd1-4ea3-b7da-6f70754cd3e9)
